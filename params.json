@@ -1,0 +1,178 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Nesmír",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Karel Šiktanc",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-07-26T10:57:50.735Z"
+    },
+    "chapters": [
+      {
+        "title": "",
+        "filename": "nesmir_001.md",
+        "xhtml": "nesmir_001.xhtml"
+      },
+      {
+        "title": "",
+        "filename": "nesmir_002.md",
+        "xhtml": "nesmir_002.xhtml"
+      },
+      {
+        "title": "Nesmír",
+        "filename": "nesmir_003.md",
+        "xhtml": "nesmir_003.xhtml"
+      },
+      {
+        "title": "Znění tohoto textu vychází z díla Nesmír tak, jak bylo vydáno nakladatelstvím Karolinum v Praze v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "filename": "nesmir_004.md",
+        "xhtml": "nesmir_004.xhtml"
+      },
+      {
+        "title": "Hluchá místa",
+        "filename": "nesmir_005.md",
+        "xhtml": "nesmir_005.xhtml"
+      },
+      {
+        "title": "Kusy",
+        "filename": "nesmir_006.md",
+        "xhtml": "nesmir_006.xhtml"
+      },
+      {
+        "title": "Tónina",
+        "filename": "nesmir_007.md",
+        "xhtml": "nesmir_007.xhtml"
+      },
+      {
+        "title": "Div nehřmí",
+        "filename": "nesmir_008.md",
+        "xhtml": "nesmir_008.xhtml"
+      },
+      {
+        "title": "Její milost",
+        "filename": "nesmir_009.md",
+        "xhtml": "nesmir_009.xhtml"
+      },
+      {
+        "title": "× × ×",
+        "filename": "nesmir_010.md",
+        "xhtml": "nesmir_010.xhtml"
+      },
+      {
+        "title": "Pelyněk",
+        "filename": "nesmir_011.md",
+        "xhtml": "nesmir_011.xhtml"
+      },
+      {
+        "title": "Zdrávas",
+        "filename": "nesmir_012.md",
+        "xhtml": "nesmir_012.xhtml"
+      },
+      {
+        "title": "A darmo",
+        "filename": "nesmir_013.md",
+        "xhtml": "nesmir_013.xhtml"
+      },
+      {
+        "title": "Tajné úspory",
+        "filename": "nesmir_014.md",
+        "xhtml": "nesmir_014.xhtml"
+      },
+      {
+        "title": "Jako když tiskne",
+        "filename": "nesmir_015.md",
+        "xhtml": "nesmir_015.xhtml"
+      },
+      {
+        "title": "Nesmír",
+        "filename": "nesmir_016.md",
+        "xhtml": "nesmir_016.xhtml"
+      },
+      {
+        "title": "Jesenino",
+        "filename": "nesmir_017.md",
+        "xhtml": "nesmir_017.xhtml"
+      },
+      {
+        "title": "Husté zelené ovsy",
+        "filename": "nesmir_018.md",
+        "xhtml": "nesmir_018.xhtml"
+      },
+      {
+        "title": "Zlatotiskem",
+        "filename": "nesmir_019.md",
+        "xhtml": "nesmir_019.xhtml"
+      },
+      {
+        "title": "Karel ŠiktancNesmír",
+        "filename": "nesmir_020.md",
+        "xhtml": "nesmir_020.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_nesmir.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven2_basne",
+      "MLP_uroven3_basne",
+      "MLP_verse_-0-12-",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": null
+  }
+}
