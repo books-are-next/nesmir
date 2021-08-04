@@ -5,106 +5,126 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Šiktanc",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-04T17:34:57.561Z"
+      "modified": "2021-08-04T20:43:05.189Z"
     },
     "chapters": [
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_001.md",
         "xhtml": "nesmir_001.xhtml"
       },
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_002.md",
         "xhtml": "nesmir_002.xhtml"
       },
       {
-        "title": "Nesmír",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_003.md",
         "xhtml": "nesmir_003.xhtml"
       },
       {
-        "title": "Znění tohoto textu vychází z díla Nesmír tak, jak bylo vydáno nakladatelstvím Karolinum v Praze v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_004.md",
         "xhtml": "nesmir_004.xhtml"
       },
       {
-        "title": "Hluchá místa",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_005.md",
         "xhtml": "nesmir_005.xhtml"
       },
       {
-        "title": "Kusy",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_006.md",
         "xhtml": "nesmir_006.xhtml"
       },
       {
-        "title": "Tónina",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_007.md",
         "xhtml": "nesmir_007.xhtml"
       },
       {
-        "title": "Div nehřmí",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_008.md",
         "xhtml": "nesmir_008.xhtml"
       },
       {
-        "title": "Její milost",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_009.md",
         "xhtml": "nesmir_009.xhtml"
       },
       {
-        "title": "× × ×",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_010.md",
         "xhtml": "nesmir_010.xhtml"
       },
       {
-        "title": "Pelyněk",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_011.md",
         "xhtml": "nesmir_011.xhtml"
       },
       {
-        "title": "Zdrávas",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_012.md",
         "xhtml": "nesmir_012.xhtml"
       },
       {
-        "title": "A darmo",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_013.md",
         "xhtml": "nesmir_013.xhtml"
       },
       {
-        "title": "Tajné úspory",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_014.md",
         "xhtml": "nesmir_014.xhtml"
       },
       {
-        "title": "Jako když tiskne",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_015.md",
         "xhtml": "nesmir_015.xhtml"
       },
       {
-        "title": "Nesmír",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_016.md",
         "xhtml": "nesmir_016.xhtml"
       },
       {
-        "title": "Jesenino",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_017.md",
         "xhtml": "nesmir_017.xhtml"
       },
       {
-        "title": "Husté zelené ovsy",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_018.md",
         "xhtml": "nesmir_018.xhtml"
       },
       {
-        "title": "Zlatotiskem",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_019.md",
         "xhtml": "nesmir_019.xhtml"
       },
       {
-        "title": "Karel ŠiktancNesmír",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "nesmir_020.md",
         "xhtml": "nesmir_020.xhtml"
       }
@@ -173,6 +193,10 @@
       "_idGenObjectLayout-1",
       "_idGenObjectStyleOverride-1"
     ],
-    "github": null
+    "github": {
+      "user": "books-are-next",
+      "repo": "nesmir"
+    },
+    "generatedAt": 1628109785434
   }
 }
