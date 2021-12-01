@@ -5,7 +5,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Šiktanc",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-04T20:43:05.189Z"
+      "modified": "2021-12-01T17:29:30.010Z"
     },
     "chapters": [
       {
@@ -197,6 +197,6 @@
       "user": "books-are-next",
       "repo": "nesmir"
     },
-    "generatedAt": 1628109785434
+    "generatedAt": 1638379770229
   }
 }
