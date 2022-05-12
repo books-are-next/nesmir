@@ -10,6 +10,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-06-16T00:00:00.000Z'
 readingOrder:
+  - promo.html
   - nesmir_001.html
   - nesmir_002.html
   - nesmir_003.html
