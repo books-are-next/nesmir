@@ -1,27 +1,26 @@
 ---
+title: "×\_×\_×"
 contentType: prose
 ---
 
-× × ×
+_Bourá trh  
+A u garáží  
+            zvrh se z vozu čtverec světla,  
+            sjel po sajtně před vrata_
 
-> Bourá trh  
-> A u garáží  
->             zvrh se z vozu čtverec světla,  
->             sjel po sajtně před vrata
+_Velkej svět  
+jde od nádraží_
 
-> Velkej svět  
-> jde od nádraží
+_Ves už strojí v sladké ráži  
+z bajek všechna zvířata_
 
-> Ves už strojí v sladké ráži  
-> z bajek všechna zvířata
+_Napěníno  
+Vosy kolem  
+            Birnam les se aspoň klaní,  
+            když už není na drama_
 
-> Napěníno  
-> Vosy kolem  
->             Birnam les se aspoň klaní,  
->             když už není na drama
+_Kývám,  
+dělám dobrý dojem_
 
-> Kývám,  
-> dělám dobrý dojem
-
-> Slepec při psu hraje Poem  
-> Ksindl všema barvama
+_Slepec při psu hraje Poem  
+Ksindl všema barvama_

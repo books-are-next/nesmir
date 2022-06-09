@@ -1,50 +1,49 @@
 ---
+title: A darmo
 contentType: prose
 ---
 
-A darmo
+_Dlouhou vsí, dlouhým večerem  
+jde žena naboso,    nese si přítmím svůj  
+vysoký věk,_
 
-> Dlouhou vsí, dlouhým večerem  
-> jde žena naboso,    nese si přítmím svůj  
-> vysoký věk,
+            _hrdě,  
+            křehounce jako čajový servis._
 
->             hrdě,  
->             křehounce jako čajový servis.
+_Ano,  
+ta věčně prázdná perspektiva aleje!_
 
-> Ano,  
-> ta věčně prázdná perspektiva aleje!
+_A byly tu úvaly.    Měly strašlivá jména,  
+kterých jsme se nebáli:_
 
-> A byly tu úvaly.    Měly strašlivá jména,  
-> kterých jsme se nebáli:
+            _Zabitej,_
 
->             Zabitej,
+            _Jaktěživej._
 
->             Jaktěživej.
+_A ledový potok květnatě mluvil.  
+A vlásky nerostů byly v lomu pečlivě srovnané,  
+načesané.  
+A u stropu v krámě svítila čtvrtka krávy  
+jako lustr…_
 
-> A ledový potok květnatě mluvil.  
-> A vlásky nerostů byly v lomu pečlivě srovnané,  
-> načesané.  
-> A u stropu v krámě svítila čtvrtka krávy  
-> jako lustr…
+            _v sametu spaly kružidla  
+            a hodinky  
+            a housle._
 
->             v sametu spaly kružidla  
->             a hodinky  
->             a housle.
+_(To jsem ji tenkrát ještě stokrát vyhlížel._
 
-> (To jsem ji tenkrát ještě stokrát vyhlížel.
+_A darmo.)_
 
-> A darmo.)
+_Teď tu ticho.  
+Pár stromů v objetí jako vždycky, když se  
+nikdo nedívá,_
 
-> Teď tu ticho.  
-> Pár stromů v objetí jako vždycky, když se  
-> nikdo nedívá,
+            _a měsíc,    bledý, nakasaný  
+            jako chryzantéma,_
 
->             a měsíc,    bledý, nakasaný  
->             jako chryzantéma,
+_nádražní světlo hledí upřeně mým směrem._
 
-> nádražní světlo hledí upřeně mým směrem.
+_Teď tu půlnoc.  
+A číslo po čísle    jak vypínají zvuk i obraz —_
 
-> Teď tu půlnoc.  
-> A číslo po čísle    jak vypínají zvuk i obraz —
-
-> život náš potmě,    ksmrti sám.
+_život náš potmě,    ksmrti sám._

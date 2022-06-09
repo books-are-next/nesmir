@@ -1,195 +1,194 @@
 ---
+title: Její milost
 contentType: prose
 ---
 
-Její milost
-
 1
 
-> Nějaká prudká bolest v povětří,
+_Nějaká prudká bolest v povětří,_
 
-> strom napřímil se v kůře.
+_strom napřímil se v kůře._
 
-> Ale nikdo ani ponětí.     Na nebi,  
-> na zemi.  
-> Jen já…
+_Ale nikdo ani ponětí.     Na nebi,  
+na zemi.  
+Jen já…_
 
-> trochu rozkoš, trochu tíseň řezaly mě křížem  
-> v očích
+_trochu rozkoš, trochu tíseň řezaly mě křížem  
+v očích_
 
-> a nádherné řádění záhybů a pohnutek a skvrn  
-> (slzy hráchy,     žádný štráchy)
+_a nádherné řádění záhybů a pohnutek a skvrn  
+(slzy hráchy,     žádný štráchy)_
 
-> a z vysokánských chórů:
+_a z vysokánských chórů:_
 
-> že jsi na světě!
+_že jsi na světě!_
 
-> že jsi zde na mém světě útle přítomna!  
-> jen jak hudba  
-> jen potmě šrám nahým stříbrným nožem!
+_že jsi zde na mém světě útle přítomna!  
+jen jak hudba  
+jen potmě šrám nahým stříbrným nožem!_
 
-> Zvěř přestala žrát.
+_Zvěř přestala žrát._
 
-> A cosi nad ději,  
-> nad živobytím,  
-> co jen kradmo,     na třaslavých špičkách…
+_A cosi nad ději,  
+nad živobytím,  
+co jen kradmo,     na třaslavých špičkách…_
 
-> A házel sebou cecík déšť…
+_A házel sebou cecík déšť…_
 
-> A něčí radost stála v okně letně vyšňořena  
-> k odjezdu…
+_A něčí radost stála v okně letně vyšňořena  
+k odjezdu…_
 
-> A v keři křidýlko nočního motýla,  
-> který se na světle zabil.
+_A v keři křidýlko nočního motýla,  
+který se na světle zabil._
 
 2
 
-> Byla jsi,  
-> nebylo stání.
+_Byla jsi,  
+nebylo stání._
 
-> Jat sladkým prolhanstvím,  
-> křiklavým, dlouhým smíchem vstupoval jsem  
-> do hovorů,      abych dokázal, že žiju.
+_Jat sladkým prolhanstvím,  
+křiklavým, dlouhým smíchem vstupoval jsem  
+do hovorů,      abych dokázal, že žiju._
 
-> Městem táh vítr.  
-> Jakej šel,     takovou potkal.  
-> Dům „Boží oko“ v Malé Štupartské byl  
-> od střechy po zem slepý.
+_Městem táh vítr.  
+Jakej šel,     takovou potkal.  
+Dům „Boží oko“ v Malé Štupartské byl  
+od střechy po zem slepý._
 
-> Šťastlivo, hrubě z herny rozhýklo se  
-> chlapectví.
+_Šťastlivo, hrubě z herny rozhýklo se  
+chlapectví._
 
-> A někde v šancích rozlila se září lampa  
-> zahrabaná do sněhu  
-> (ač vrchovaté léto!)
+_A někde v šancích rozlila se září lampa  
+zahrabaná do sněhu  
+(ač vrchovaté léto!)_
 
-> a celá tichá pošta mezi vodami a pevninou zalknuta divem doslovného znění!
+_a celá tichá pošta mezi vodami a pevninou zalknuta divem doslovného znění!_
 
-> Z lesů vál černý vzduch.  
-> Leč nekonec třpytu —  
-> jediným božím trhnutím  
-> otevřen náhle západ až na živé maso!
+_Z lesů vál černý vzduch.  
+Leč nekonec třpytu —  
+jediným božím trhnutím  
+otevřen náhle západ až na živé maso!_
 
-> Rána až ke Hřebči.  
-> K spatření v dílně pila, pravý úhel,  
-> linkovací šňůra po otci.
+_Rána až ke Hřebči.  
+K spatření v dílně pila, pravý úhel,  
+linkovací šňůra po otci._
 
-> Klečíš v tom ohni,  
-> hladíš ho po řežavém,     po zlatě a po krvi.
+_Klečíš v tom ohni,  
+hladíš ho po řežavém,     po zlatě a po krvi._
 
-> Slzy hráchy,     ohlídla ses od oharků  
-> po mně:
+_Slzy hráchy,     ohlídla ses od oharků  
+po mně:_
 
-> „Buší mu srdíčko.“
+_„Buší mu srdíčko.“_
 
 3
 
-> Do koho jsi to vstala?
+_Do koho jsi to vstala?_
 
-> Do koho usínala?
+_Do koho usínala?_
 
-> Žár padl hlavou do bitého skla,  
-> někdo si teatrálně oprašuje kolena,  
-> aniž klečel.
+_Žár padl hlavou do bitého skla,  
+někdo si teatrálně oprašuje kolena,  
+aniž klečel._
 
-> A celé modré zahradnictví.  
-> Nov, teprv tužtičkou,     šmiká ti srpem růže.
+_A celé modré zahradnictví.  
+Nov, teprv tužtičkou,     šmiká ti srpem růže._
 
-> Skvost přítomnosti!  
-> Snad právě určuješ nové světové strany.  
-> A snad ses jenom z výšky políbila u prsou,
+_Skvost přítomnosti!  
+Snad právě určuješ nové světové strany.  
+A snad ses jenom z výšky políbila u prsou,_
 
-> jak se sám od sebe potichu poltí  
-> boží dvorec na zip.
+_jak se sám od sebe potichu poltí  
+boží dvorec na zip._
 
-> Jde k tobě od stájových jeslí do soumraku  
-> kůň,
+_Jde k tobě od stájových jeslí do soumraku  
+kůň,_
 
-> (Středohoří mé… hořem hoříme!)
+_(Středohoří mé… hořem hoříme!)_
 
-> A zrovna v tom nejkrásnějším!
+_A zrovna v tom nejkrásnějším!_
 
 4
 
-> Jsi z teskné hlavy
+_Jsi z teskné hlavy_
 
-> Na Žalým     na té kalvárii zdejší  
-> strmí strach o tebe,  
-> bledý     jak andaluský palác.
+_Na Žalým     na té kalvárii zdejší  
+strmí strach o tebe,  
+bledý     jak andaluský palác._
 
-> Jsi náběr sukně     Jedním tahem sníh  
-> V koruně srázem stozelenej rámus,  
-> čajových svíček po vrch strom.
+_Jsi náběr sukně     Jedním tahem sníh  
+V koruně srázem stozelenej rámus,  
+čajových svíček po vrch strom._
 
-> A had i s korunkou šourá se do něčího  
-> ráje.
+_A had i s korunkou šourá se do něčího  
+ráje._
 
-> A sháňka po lidech jde z pusta do prázdna,  
-> mají ji za blázna…
+_A sháňka po lidech jde z pusta do prázdna,  
+mají ji za blázna…_
 
-> v podzemí školy muži na nářadí.
+_v podzemí školy muži na nářadí._
 
-> Bože,     tak chudé divadlo!  
-> A samá královská role.
+_Bože,     tak chudé divadlo!  
+A samá královská role._
 
-> Pláň dětsky rozmrkaná v citrónovém světle.  
-> Něco nám začli hrát,     co nikdo neslyší.  
-> Mží… Tančís pána.  
-> Tančím paní.
+_Pláň dětsky rozmrkaná v citrónovém světle.  
+Něco nám začli hrát,     co nikdo neslyší.  
+Mží… Tančís pána.  
+Tančím paní._
 
-> Jsi moje žádné smilování
+_Jsi moje žádné smilování_
 
-> A Bůh tu nejvyšší.
+_A Bůh tu nejvyšší._
 
-> Být! A zas všecko nevědět:  
-> kde začíná růže, kde zběsilost, kde hřích…  
-> Jako na začátku.
+_Být! A zas všecko nevědět:  
+kde začíná růže, kde zběsilost, kde hřích…  
+Jako na začátku._
 
-> To se ještě psaly dopisy.  
-> To si ještě lidi psali, že jsou raněni  
-> na smrt,
+_To se ještě psaly dopisy.  
+To si ještě lidi psali, že jsou raněni  
+na smrt,_
 
-> a mysleli tím lásku.
+_a mysleli tím lásku._
 
 5
 
-> Utíkáš mi.
+_Utíkáš mi._
 
-> Utíkám ti.  
-> Snad z té prosté bázně, že se splaší  
-> hlavy.  
-> Že tu nikde konec Staré Boleslavi.
+_Utíkám ti.  
+Snad z té prosté bázně, že se splaší  
+hlavy.  
+Že tu nikde konec Staré Boleslavi._
 
-> Včelaři vyhlížejí královny.
+_Včelaři vyhlížejí královny._
 
-> A někde stranou tušit řadu pokojů, kde se  
-> každé slovo nevěřícně nese:  
-> „Polož tu cukřenku!“  
-> „Samotnýmu nejlíp!“  
-> „Nikdo se tě neprosil…“
+_A někde stranou tušit řadu pokojů, kde se  
+každé slovo nevěřícně nese:  
+„Polož tu cukřenku!“  
+„Samotnýmu nejlíp!“  
+„Nikdo se tě neprosil…“_
 
-> na jitřní straně, v půli hor  
-> hranatá hmota mhy jak Maratova vana.
+_na jitřní straně, v půli hor  
+hranatá hmota mhy jak Maratova vana._
 
-> Bodový reflektor se kácí v bazénu —
+_Bodový reflektor se kácí v bazénu —_
 
-> slyším tě plakat zlostí:
+_slyším tě plakat zlostí:_
 
-> že nic tu do nebe.  
-> jen úzkost o sebe.  
-> jenom ta hra…     a nic už za ní,  
-> o co si potmě ještě hrát.
+_že nic tu do nebe.  
+jen úzkost o sebe.  
+jenom ta hra…     a nic už za ní,  
+o co si potmě ještě hrát._
 
-> Jsi moje žádné slitování
+_Jsi moje žádné slitování_
 
-> Darmo tě okřikám,     otloukám na sto vrat…
+_Darmo tě okřikám,     otloukám na sto vrat…_
 
-> Jen dole v síni,  
-> v tom kulatém zrcadle  
-> vyvstane semtam šejdrem něčí dech
+_Jen dole v síni,  
+v tom kulatém zrcadle  
+vyvstane semtam šejdrem něčí dech_
 
-> jako korálový ostrov.
+_jako korálový ostrov._
 
-> Vyvstane, utone,     jak dáno ostrovům.
+_Vyvstane, utone,     jak dáno ostrovům._
 
-> A nikde živá duše.
+_A nikde živá duše._

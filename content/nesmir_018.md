@@ -1,53 +1,52 @@
 ---
+title: Husté zelené ovsy
 contentType: prose
 ---
 
-Husté zelené ovsy
+_Na napřažené sekeře naposled ještě rozkřiklo  
+se slunce —_
 
-> Na napřažené sekeře naposled ještě rozkřiklo  
-> se slunce —
+            _a dole ve vsi rozžal na vteřinu autogen  
+            dům po Němcích_
 
->             a dole ve vsi rozžal na vteřinu autogen  
->             dům po Němcích
+            _až do nizounkých pater._
 
->             až do nizounkých pater.
+_Barevný nízký pokoj dokořán,_
 
-> Barevný nízký pokoj dokořán,
+_husté zelené ovsy uhýbají krokům do noci  
+jako živé tělo._
 
-> husté zelené ovsy uhýbají krokům do noci  
-> jako živé tělo.
+            _Ježíš si vzdychl.  
+            Lotr ne.  
+Až zatrnulo._
 
->             Ježíš si vzdychl.  
->             Lotr ne.  
-> Až zatrnulo.
+_Otrne._
 
-> Otrne.
+_Na židli bez lenochu  
+v zahradě sedí obří zvíře tmy,  
+tušiti dech_
 
-> Na židli bez lenochu  
-> v zahradě sedí obří zvíře tmy,  
-> tušiti dech
+            _a srst  
+            a černý gladiól pohlaví —_
 
->             a srst  
->             a černý gladiól pohlaví —
+_havarovaný větroň vůně trčí z rozária  
+k nebi._
 
-> havarovaný větroň vůně trčí z rozária  
-> k nebi.
+_Usmálo se odmykání.  
+Nějaká něžnost,  
+            proniczanic,    strach ji nechat žít…_
 
-> Usmálo se odmykání.  
-> Nějaká něžnost,  
->             proniczanic,    strach ji nechat žít…
+_„Všecko je na mně, kruci, nabíraný,  
+            nakroucený,  
+            nakáslý —_
 
-> „Všecko je na mně, kruci, nabíraný,  
->             nakroucený,  
->             nakáslý —
+_roztrhej to,    rozstříhej to na mně!“_
 
-> roztrhej to,    rozstříhej to na mně!“
+_Modrá proti černé,    usmířené sestry._
 
-> Modrá proti černé,    usmířené sestry.
+_Přes silnici,  
+v jámě na vápno  
+            lopata náhle v zemi vydala zlý  
+            zvuk,_
 
-> Přes silnici,  
-> v jámě na vápno  
->             lopata náhle v zemi vydala zlý  
->             zvuk,
-
-> jako by nabírala bělost.
+_jako by nabírala bělost._

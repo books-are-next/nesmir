@@ -1,49 +1,48 @@
 ---
+title: Div nehřmí
 contentType: prose
 ---
 
-Div nehřmí
+_Blesk oběh dům,  
+závodní koně zadupali v přívěsu_
 
-> Blesk oběh dům,  
-> závodní koně zadupali v přívěsu
+_a někdo za zdí křičel:  
+            „Ta?  
+            Ta pláče   jen když odněkud táhne!“_
 
-> a někdo za zdí křičel:  
->             „Ta?  
->             Ta pláče   jen když odněkud táhne!“
+            _a v kýblu sebou cukla štětka na kámen  
+            a všecky barvy světa._
 
->             a v kýblu sebou cukla štětka na kámen  
->             a všecky barvy světa.
+_Jak bych měl sama sebe jenom půjčenýho._
 
-> Jak bych měl sama sebe jenom půjčenýho.
+_Třese se mahon.  
+Chlap celý upnutý   jak v ženském kabátě_
 
-> Třese se mahon.  
-> Chlap celý upnutý   jak v ženském kabátě
+_bubnuje polínkem na dětský xylofon —  
+            ta ryzí falešnost  
+            zní po scestích jak triumf!_
 
-> bubnuje polínkem na dětský xylofon —  
->             ta ryzí falešnost  
->             zní po scestích jak triumf!
+_Uspořádáno peří a listí a smetí na zemi._
 
-> Uspořádáno peří a listí a smetí na zemi.
+_Slyšíš?  
+Div nehřmí   Divnej spěch  
+            Diamantové roje_
 
-> Slyšíš?  
-> Div nehřmí   Divnej spěch  
->             Diamantové roje
+            _Tolik jsme ničí.  
+            A všech._
 
->             Tolik jsme ničí.  
->             A všech.
+_Co z toho opravdu tvoje?_
 
-> Co z toho opravdu tvoje?
+_V kosterních větvích špon,  
+z letiště rozšilhaná přistávací světla._
 
-> V kosterních větvích špon,  
-> z letiště rozšilhaná přistávací světla.
+_V chatách teď někdo začal zdlouhata  
+            svůj príběh.  
+            A věří mu na slovo._
 
-> V chatách teď někdo začal zdlouhata  
->             svůj príběh.  
->             A věří mu na slovo.
+_Ale je pozdě…_
 
-> Ale je pozdě…
+            _A my jsme povinni polknout svou  
+            krásnou lež_
 
->             A my jsme povinni polknout svou  
->             krásnou lež
-
-> v krajině nevinné jak anděl.
+_v krajině nevinné jak anděl._

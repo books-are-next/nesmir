@@ -1,55 +1,54 @@
 ---
+title: Tónina
 contentType: prose
 ---
 
-Tónina
+_Po křehkém trávníku jde pes,_
 
-> Po křehkém trávníku jde pes,
+            _mé hvězdy na nebi: varietní skupina  
+            kdesi ve špici hrůzy._
 
->             mé hvězdy na nebi: varietní skupina  
->             kdesi ve špici hrůzy.
+            _Z hospody na chodníku  
+            tečou muškáty.  
+Skvěle opřena   přes celé náměstí   kasírky  
+nahotinka ruka._
 
->             Z hospody na chodníku  
->             tečou muškáty.  
-> Skvěle opřena   přes celé náměstí   kasírky  
-> nahotinka ruka.
+_„Tonino…“_
 
-> „Tonino…“
+            _Někdo zved přesmoc hlavu  
+            ze stolu,_
 
->             Někdo zved přesmoc hlavu  
->             ze stolu,
+            _(chlapecká tvář,   nějaké smutné  
+            nedorozumění s očima):  
+„Tonina… moje tónina!“,  
+pes vyštěk,    kost a kůže._
 
->             (chlapecká tvář,   nějaké smutné  
->             nedorozumění s očima):  
-> „Tonina… moje tónina!“,  
-> pes vyštěk,    kost a kůže.
+_Hm,    kdekdo hladovej…_
 
-> Hm,    kdekdo hladovej…
+            _dva nesmrtelné stromy  
+            před kaplí_
 
->             dva nesmrtelné stromy  
->             před kaplí
+            _hnuly se v náhlém větru sem  
+            a tam —  
+zelený záchvat smíchu, záchvat pláče  
+v jedné vteřině!_
 
->             hnuly se v náhlém větru sem  
->             a tam —  
-> zelený záchvat smíchu, záchvat pláče  
-> v jedné vteřině!
+_Rusové zpívají._
 
-> Rusové zpívají.
+            _Krouží,  
+            drží se kolem krku,_
 
->             Krouží,  
->             drží se kolem krku,
+            _dupli si: smějí se celým tělem.  
+            Blondýnky v zákrytu leští si  
+o břicho  
+zlatý cikánský prsten._
 
->             dupli si: smějí se celým tělem.  
->             Blondýnky v zákrytu leští si  
-> o břicho  
-> zlatý cikánský prsten.
+_Poslední tramvaj._
 
-> Poslední tramvaj.
+            _Tonina cuká kasou,  
+            ječí zvon…_
 
->             Tonina cuká kasou,  
->             ječí zvon…
-
->             Muži se vytratily oči.  
->             Jenom ty ruce drží pořád před sebou,  
-> jak by už nechtěly na stůl,  
-> jak by jí rozhrnovaly prsy.
+            _Muži se vytratily oči.  
+            Jenom ty ruce drží pořád před sebou,  
+jak by už nechtěly na stůl,  
+jak by jí rozhrnovaly prsy._

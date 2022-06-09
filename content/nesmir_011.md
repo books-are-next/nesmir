@@ -1,58 +1,57 @@
 ---
+title: Pelyněk
 contentType: prose
 ---
 
-Pelyněk
+_Po někom lesk, po někom přísný smutek.  
+V jedné vsi_
 
-> Po někom lesk, po někom přísný smutek.  
-> V jedné vsi
+            _bůhví čí je to dům_
 
->             bůhví čí je to dům
+_zatápím vkleče v nějakých kamnech,  
+ruce plné ran… (Něco jsme asi  
+přes den napínali,_
 
-> zatápím vkleče v nějakých kamnech,  
-> ruce plné ran… (Něco jsme asi  
-> přes den napínali,
+            _asi řetěz  
+            nebo drátěný plot)._
 
->             asi řetěz  
->             nebo drátěný plot).
+_Rozpita,  
+žena v koutě lije z převysoka čaj,_
 
-> Rozpita,  
-> žena v koutě lije z převysoka čaj,
+            _je měděný  
+            a červený_
 
->             je měděný  
->             a červený
+_a žlutý.  
+A stařec ve sněhové košili dívá se  
+na ni skrz dům jako na dítě:_
 
-> a žlutý.  
-> A stařec ve sněhové košili dívá se  
-> na ni skrz dům jako na dítě:
+            _musí spolu žít dlouho,  
+            jsou si podobni._
 
->             musí spolu žít dlouho,  
->             jsou si podobni.
+_Vypsanou rukou pápěrek a les.  
+Starý, třikrát ohřívaný život_
 
-> Vypsanou rukou pápěrek a les.  
-> Starý, třikrát ohřívaný život
+            _rozšuměl se na plotně —_
 
->             rozšuměl se na plotně —
+_leč cimra ve vánočním balení:  
+jas třísní z tálů, kreslí zlatince_
 
-> leč cimra ve vánočním balení:  
-> jas třísní z tálů, kreslí zlatince
+            _po věcích, po lidech…  
+            Činí je úhlednými._
 
->             po věcích, po lidech…  
->             Činí je úhlednými.
+_Za okny parket. Parket plný sněhu.  
+„Dámská volenka!“,_
 
-> Za okny parket. Parket plný sněhu.  
-> „Dámská volenka!“,
+            _člověk co vchází  
+            nebyl asi nikdy na světě._
 
->             člověk co vchází  
->             nebyl asi nikdy na světě.
+_Ale je!  
+Ale se po něm všichni ohlížejí!  
+a všichni o něm zarytě mlčí, až_
 
-> Ale je!  
-> Ale se po něm všichni ohlížejí!  
-> a všichni o něm zarytě mlčí, až
+            _do tmy._
 
->             do tmy.
+_„Pij pelyněk…“ slyším ho někde  
+blízko za zády._
 
-> „Pij pelyněk…“ slyším ho někde  
-> blízko za zády.
-
->             „Pelyněk pravý… srdce supa.“
+            _„Pelyněk pravý… srdce supa.“_
