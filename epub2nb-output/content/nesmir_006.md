@@ -1,57 +1,56 @@
 ---
+title: Kusy
 contentType: prose
 ---
 
-Kusy
+_Kříšení prutů,  
+okna bez záclon,_
 
-> Kříšení prutů,  
-> okna bez záclon,
+_kříž v černém stojí na jedné,  
+cizota v bílém na všech čtyřech._
 
-> kříž v černém stojí na jedné,  
-> cizota v bílém na všech čtyřech.
+            _Hadi prý neslyší.  
+            Ryby prý nespí ve dne ani v noci._
 
->             Hadi prý neslyší.  
->             Ryby prý nespí ve dne ani v noci.
+            _A Bůh tu nejvyšší?_
 
->             A Bůh tu nejvyšší?
+_Či už jsme sami svrchovanou mocí?_
 
-> Či už jsme sami svrchovanou mocí?
+_Zasažen stříbrem,  
+zved se dravec pták,_
 
-> Zasažen stříbrem,  
-> zved se dravec pták,
+_větvení lip se za ním divě  
+chvělo._
 
-> větvení lip se za ním divě  
-> chvělo.
+            _To rozpětí,  
+            ta kytka per_
 
->             To rozpětí,  
->             ta kytka per
+            _na  nebi  tkví  jak  totemová  hlava!_
 
->             na  nebi  tkví  jak  totemová  hlava!
+_Těžkopád stromu,   totemové tělo._
 
-> Těžkopád stromu,   totemové tělo.
+_Ano,  
+pořád  ty  kusy  soch  sbalené  v  mokrých,_
 
-> Ano,  
-> pořád  ty  kusy  soch  sbalené  v  mokrých,
+_ledovatých hadrech,  
+kusy lávy,_
 
-> ledovatých hadrech,  
-> kusy lávy,
+            _kusy znělce,  
+            kusy úbělu…_
 
->             kusy znělce,  
->             kusy úbělu…
+            _nějaká krajina úporně zabolela dům_
 
->             nějaká krajina úporně zabolela dům
+_svou nepřítomností._
 
-> svou nepřítomností.
+_Honorace věží.     Do Ignáce sněží.  
+A ženy v parfumerii čichají k zápěstím,_
 
-> Honorace věží.     Do Ignáce sněží.  
-> A ženy v parfumerii čichají k zápěstím,
+_křiklavě, křehce v loubí knihovny  
+učí se Indka časování sloves._
 
-> křiklavě, křehce v loubí knihovny  
-> učí se Indka časování sloves.
+            _Zítra je Velikonoční pondělí,  
+            Laura bude mít zelené šaty,_
 
->             Zítra je Velikonoční pondělí,  
->             Laura bude mít zelené šaty,
+            _poseté fialkami._
 
->             poseté fialkami.
-
-> Petrarca zapře třikrát poesii.
+_Petrarca zapře třikrát poesii._

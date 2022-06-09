@@ -1,46 +1,45 @@
 ---
+title: Hluchá místa
 contentType: prose
 ---
 
-Hluchá místa
+            _Obřady zimy  
+            čím dál kratší.  
+            Koně,  kočí  na  zip —_
 
->             Obřady zimy  
->             čím dál kratší.  
->             Koně,  kočí  na  zip —
+            _hosté  jsou  zabaleni  do  houní._
 
->             hosté  jsou  zabaleni  do  houní.
+_U všech šťastných náhod půlkruhem ti samí.  
+U všech šťastných nehod  
+nějací mlsouni._
 
-> U všech šťastných náhod půlkruhem ti samí.  
-> U všech šťastných nehod  
-> nějací mlsouni.
+            _Muž,  
+            celý Ježíš,  
+            odemyká o samotě dům —_
 
->             Muž,  
->             celý Ježíš,  
->             odemyká o samotě dům —
+_v altánku za oknem tesařské nástroje._
 
-> v altánku za oknem tesařské nástroje.
+_Čtu si to   nevěřící   slovo za slovem.  
+I jenom listuju.  
+I skáču hluchá místa._
 
-> Čtu si to   nevěřící   slovo za slovem.  
-> I jenom listuju.  
-> I skáču hluchá místa.
+           _Prodavač losů šilhá.  
+           A žena bez prsů visí mu  
+           kolem krku,   leží mu celou vahou_
 
->            Prodavač losů šilhá.  
->            A žena bez prsů visí mu  
->            kolem krku,   leží mu celou vahou
+           _rudě  květovaná  na  těle,_
 
->            rudě  květovaná  na  těle,
+_snad se loučí,  
+snad se ještě miluje,  
+snad spí._
 
-> snad se loučí,  
-> snad se ještě miluje,  
-> snad spí.
+            _Ve velikém klisním oku  
+            ohlídla se po té kráse  
+            slza._
 
->             Ve velikém klisním oku  
->             ohlídla se po té kráse  
->             slza.
+            _„Prosím vás…_
 
->             „Prosím vás…
+_ten dům naproti je hotel?“_
 
-> ten dům naproti je hotel?“
-
-> „Ano, pane.  
-> Bydlel jste už ve všech pokojích.“
+_„Ano, pane.  
+Bydlel jste už ve všech pokojích.“_

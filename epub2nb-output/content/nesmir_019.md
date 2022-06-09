@@ -1,57 +1,56 @@
 ---
+title: Zlatotiskem
 contentType: prose
 ---
 
-Zlatotiskem
+            _Jede den na nízkém koni,  
+            nohy o zem courá._
 
->             Jede den na nízkém koni,  
->             nohy o zem courá.
+_Větýrek ve víru.  
+Ve škole naproti smet noty z klavíru…_
 
-> Větýrek ve víru.  
-> Ve škole naproti smet noty z klavíru…
+_jediná vzpoura._
 
-> jediná vzpoura.
+_Po jezeře letí voda s bílou hřívou.  
+            A v parku,  
+            lautr sám,_
 
-> Po jezeře letí voda s bílou hřívou.  
->             A v parku,  
->             lautr sám,
+            _fotoaparát na vysokých nohou —_
 
->             fotoaparát na vysokých nohou —
+_servírky z bistra v předem roztrhaných  
+džínách  
+            kňourají, ať jde pryč,  
+            že do nich do všech vidí._
 
-> servírky z bistra v předem roztrhaných  
-> džínách  
->             kňourají, ať jde pryč,  
->             že do nich do všech vidí.
+_Z úžlabin cítit polní lilie.  
+Nějaké pohnutí jde šeptem skvělou akustikou  
+zálivu,_
 
-> Z úžlabin cítit polní lilie.  
-> Nějaké pohnutí jde šeptem skvělou akustikou  
-> zálivu,
+_v kocábkách malá duše._
 
-> v kocábkách malá duše.
+_Bojí-li se o mě,  
+zhasne pámbu v domě:_
 
-> Bojí-li se o mě,  
-> zhasne pámbu v domě:
+            _přiměje tu drahnou vodu  
+            plakat, smát se bez důvodu,_
 
->             přiměje tu drahnou vodu  
->             plakat, smát se bez důvodu,
+_opičit se po mně._
 
-> opičit se po mně.
+_Dům plavě popsán benzínovým plamenem.  
+A zlatotiskem nebe.  Krasopisně  
+sad._
 
-> Dům plavě popsán benzínovým plamenem.  
-> A zlatotiskem nebe.  Krasopisně  
-> sad.
+_Odmala jsem měl v písmu velké zalíbení:_
 
-> Odmala jsem měl v písmu velké zalíbení:
+            _literky,  
+            majuskule,   kroucené, kosem,  
+            tiskací,_
 
->             literky,  
->             majuskule,   kroucené, kosem,  
->             tiskací,
+            _matčiny štítné iniciály…  
+            I ty za svobodna._
 
->             matčiny štítné iniciály…  
->             I ty za svobodna.
+_Teď rukou sotva co._
 
-> Teď rukou sotva co.
-
-> A pořád jsou věci, které přivoláš jen  
-> mlčením.  
-> Pro které ještě nemáš abecedu.
+_A pořád jsou věci, které přivoláš jen  
+mlčením.  
+Pro které ještě nemáš abecedu._

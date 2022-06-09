@@ -1,51 +1,50 @@
 ---
+title: Nesmír
 contentType: prose
 ---
 
-Nesmír
+_Blázen,  mám ještě na všem lešení!_
 
-> Blázen,  mám ještě na všem lešení!
+_A povětří ve vilách husté jak obilí_
 
-> A povětří ve vilách husté jak obilí
+            _a strom sám na kopci bije a lomí  
+            snad dvacíti rukama:_
 
->             a strom sám na kopci bije a lomí  
->             snad dvacíti rukama:
+            _bože,  
+            to zdejší do větru zoufalství  
+je krásné!_
 
->             bože,  
->             to zdejší do větru zoufalství  
-> je krásné!
+_Slyšet list kosatce, jak řízl do prázdna._
 
-> Slyšet list kosatce, jak řízl do prázdna.
+            _Takové ukrutné nic,  
+            jak tenkrát na Nilu kde jsem div  
+            nepřišel o život._
 
->             Takové ukrutné nic,  
->             jak tenkrát na Nilu kde jsem div  
->             nepřišel o život.
+_Měl tvoje zelené oči._
 
-> Měl tvoje zelené oči.
+_Přebytečně bílé, dítě se v okně zamotalo  
+do záclon —_
 
-> Přebytečně bílé, dítě se v okně zamotalo  
-> do záclon —
+            _v prosklené verandě  
+            jeví se plachá gesta samoty:  
+            beznohý grandiózní balet!_
 
->             v prosklené verandě  
->             jeví se plachá gesta samoty:  
->             beznohý grandiózní balet!
+_Bolí ta pláň.    Ty nyvě nemotorné tvary.  
+(Jako v dopise.)_
 
-> Bolí ta pláň.    Ty nyvě nemotorné tvary.  
-> (Jako v dopise.)
+            _Můj nesmír ještě neví, co je to  
+            být starý._
 
->             Můj nesmír ještě neví, co je to  
->             být starý.
+_Ale dozví se._
 
-> Ale dozví se.
+_Klejou.  
+Někdo vypráví obsah filmu…_
 
-> Klejou.  
-> Někdo vypráví obsah filmu…
+_ke mně dnes v šeru cesta stříbrná  
+            jako plesnivý chleba._
 
-> ke mně dnes v šeru cesta stříbrná  
->             jako plesnivý chleba.
+            _Naparuje se dým.  
+            A měsíc kane z rour jako vařící cukr._
 
->             Naparuje se dým.  
->             A měsíc kane z rour jako vařící cukr.
-
-> A každý tvůj smích,  odkudkoli,  je  
-> prvorozený.
+_A každý tvůj smích,  odkudkoli,  je  
+prvorozený._

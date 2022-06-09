@@ -1,54 +1,53 @@
 ---
+title: Zdrávas
 contentType: prose
 ---
 
-Zdrávas
+_Z jabka jen bubáček,_
 
-> Z jabka jen bubáček,
+_jezero od krve._
 
-> jezero od krve.
+            _Ale veselé rtěnky! A všude křehce ční  
+            holčičí lopatky_
 
->             Ale veselé rtěnky! A všude křehce ční  
->             holčičí lopatky
+            _a všechny holé zdi v okresních pokojích  
+            bronzověkytinkovým  
+            válečkem…_
 
->             a všechny holé zdi v okresních pokojích  
->             bronzověkytinkovým  
->             válečkem…
+_tu a tam v koutě  
+špetka cti:_
 
-> tu a tam v koutě  
-> špetka cti:
+            _žárovka černá jak bota._
 
->             žárovka černá jak bota.
+_Klackuje plot.  
+Cyklistka s helmou plnou višní —_
 
-> Klackuje plot.  
-> Cyklistka s helmou plnou višní —
+            _žár po knoflíčkách slepě rozepíná zem:_
 
->             žár po knoflíčkách slepě rozepíná zem:
+_obscénní kyprá zeleň cpe se, padá  
+polnostem  
+až k pasu._
 
-> obscénní kyprá zeleň cpe se, padá  
-> polnostem  
-> až k pasu.
+_Potyčky lítostí.  
+Drahoty uhýbají špásu._
 
-> Potyčky lítostí.  
-> Drahoty uhýbají špásu.
+_Vyhlížím bytosti.    Nějaké  
+bytosti.  
+            Nějakou obyčejnskou krásu._
 
-> Vyhlížím bytosti.    Nějaké  
-> bytosti.  
->             Nějakou obyčejnskou krásu.
+_Malátná polní mše,_
 
-> Malátná polní mše,
+_při Zdrávas vstalo širé panorama vsí —_
 
-> při Zdrávas vstalo širé panorama vsí —
+            _planktón vodou rejdí,  
+            strýčínkové šmejdi  
+rozbírají grunt._
 
->             planktón vodou rejdí,  
->             strýčínkové šmejdi  
-> rozbírají grunt.
+_Něco rašplí,    něco smirkem…  
+            Šťastno bylo předpředvčírkem…_
 
-> Něco rašplí,    něco smirkem…  
->             Šťastno bylo předpředvčírkem…
+_Od bledých růží,  
+od fary  
+točí se po všech,    co tu měli být,_
 
-> Od bledých růží,  
-> od fary  
-> točí se po všech,    co tu měli být,
-
-> v kvadrátku korunovanej svatej.
+_v kvadrátku korunovanej svatej._

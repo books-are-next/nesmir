@@ -1,60 +1,59 @@
 ---
+title: Tajné úspory
 contentType: prose
 ---
 
-Tajné úspory
+_Nejvíc k večeru…_
 
-> Nejvíc k večeru…
+_V nádraží sebou trhne vlak,  
+žlutě se smějou skříplá kola v šínách._
 
-> V nádraží sebou trhne vlak,  
-> žlutě se smějou skříplá kola v šínách.
+            _Na vodě něco drobným písmem,  
+            pámbu ví.  
+            A modro od havrana._
 
->             Na vodě něco drobným písmem,  
->             pámbu ví.  
->             A modro od havrana.
+            _A z hrubých rastrů lesa táhle zvedá se  
+ten šum,  
+ten z nízka, z blízka hrozitánský nádech,  
+až sten… až jík…_
 
->             A z hrubých rastrů lesa táhle zvedá se  
-> ten šum,  
-> ten z nízka, z blízka hrozitánský nádech,  
-> až sten… až jík…
+            _až drze drahocenný výkřik!  
+Nikoho!  
+Ničí!_
 
->             až drze drahocenný výkřik!  
-> Nikoho!  
-> Ničí!
+_Ale celý o mně._
 
-> Ale celý o mně.
+_O tom zlém tušení ponorné skvoucí řeči  
+za vším spatřeným.  
+            O tom doslýchání,_
 
-> O tom zlém tušení ponorné skvoucí řeči  
-> za vším spatřeným.  
->             O tom doslýchání,
+_o tom hořkém zdání  
+            hatmatilky tkání a třtin  
+            a vlášení  
+            a míz,_
 
-> o tom hořkém zdání  
->             hatmatilky tkání a třtin  
->             a vlášení  
->             a míz,
+_co je potmě jako ryba,  
+ale posté skrčmo,  
+            poslepu se hýbá, uslintaná,  
+            zmuchlaná —_
 
-> co je potmě jako ryba,  
-> ale posté skrčmo,  
->             poslepu se hýbá, uslintaná,  
->             zmuchlaná —
+_ta báj,    to napětí  
+hmyzího neznáma,  
+to bití patama  
+v pupenu,  
+v poupěti…_
 
-> ta báj,    to napětí  
-> hmyzího neznáma,  
-> to bití patama  
-> v pupenu,  
-> v poupěti…
+_Co hrozí explozí!_
 
-> Co hrozí explozí!
+_Co zítra vyhodí zahradu do povětří!_
 
-> Co zítra vyhodí zahradu do povětří!
+_Z obchvatu města slyšet dunění,  
+kobylky tikly v mědirytu slunce._
 
-> Z obchvatu města slyšet dunění,  
-> kobylky tikly v mědirytu slunce.
+_Pár zámlk,  
+pár hltů, mezer,  
+            vokálů už vím._
 
-> Pár zámlk,  
-> pár hltů, mezer,  
->             vokálů už vím.
+            _Mé tajné úspory._
 
->             Mé tajné úspory.
-
-> Ale ta smutná pýcha smrdět málem!
+_Ale ta smutná pýcha smrdět málem!_
