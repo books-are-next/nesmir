@@ -3,6 +3,8 @@ title: Jako když tiskne
 contentType: prose
 ---
 
+<section>
+
 _Jak by ho řezali dva: půlkou obličeje až zářil, půlkou  
 obličeje klel. Dokořán oknem vidět stůl. Seděl  
 mu v čele, starou hlavu vzpříma, v podpaží dvojmo  
@@ -11,6 +13,10 @@ kola potu.
 parků. A náhle se muž zvedl, vyvlíkl, svěsil hodiny  
 ze zdi   a vztekle jimi třás, jak by z nich třásl duši…_
 
+</section>
+
+<section>
+
             _Jeden oheň to město   Strohý Řídký  
             Z pruhů   Z trní  
             Na řece parníky o mělkém ponoru  
@@ -18,6 +24,10 @@ ze zdi   a vztekle jimi třás, jak by z nich třásl duši…_
             leje z putny koním pod kopyta  
             vodu  
       (Tohle ti přijde draho)_
+
+</section>
+
+<section>
 
             _Mísa s ovocem Mísa s ovocem, plná bolavého  
             lesku  
@@ -28,10 +38,18 @@ ze zdi   a vztekle jimi třás, jak by z nich třásl duši…_
             na pruhovaný uzel  
       (To může přijít draho)_
 
+</section>
+
+<section>
+
 _Chrastilo to, cinkalo to.    A muž byl veliký. A celý  
 červený, jak by ho polil stud.    Jak by ho žena,  
 která k němu někde patřila,    nerada, ráda rukou  
 uhodila přes ústa…_
+
+</section>
+
+<section>
 
             _Z paláců táhne  
             Pes na zádech     V okně restaurace jí  
@@ -43,6 +61,10 @@ uhodila přes ústa…_
             kněží  
       (A něco věčně za očima soch: tucha, světelnost, nápřah?    Slepej…  
       se vynadívej!)_
+
+</section>
+
+<section>
 
             _V šaluňku lampa  
             Slívová hlava stínem na klášterní zdi,  
@@ -56,6 +78,10 @@ uhodila přes ústa…_
             nejšťastnější výraz  
       (Nebo tě nevole sní)_
 
+</section>
+
+<section>
+
 _Zle oslněn sám sebou,   tím hrozným neklidem,   stál  
 proti oknu.     I západ skvěle skvěl se jako pes, co si  
 chce kousnout z ohně.  
@@ -64,11 +90,19 @@ A jak je kladl na stůl, aby je vyčistil, aby ta závrať
 nalezla svůj smysl, slyšel své myšlenky: schodiště  
 obraznosti vedlo do nebe, schody paměti domů…_
 
+</section>
+
+<section>
+
             _Po nebi nad hlavou jdou řecké ostrovy  
             A drobný, trpělivý před kavárnou déšť:  
             snad přišel dřív,    snad čeká která z žen  
             ho poprosí, aby jí svlékl prsten  
       (Šunt úchvat!    Zvěrsky mlád!    A mluví pravdu jako když tiskne!)_
+
+</section>
+
+<section>
 
             _Z letního jabka ulizuje roj  
             Leč strom ani brvou — jak by osvobozen  
@@ -81,6 +115,10 @@ obraznosti vedlo do nebe, schody paměti domů…_
             železa — na hradbě šrekou karmínový kříž:  
             UŽ JSEM TĚ OBREČELA!_
 
+</section>
+
+<section>
+
 _Ohlíd se po dešti. A předem utíkal z mokrého náručí.  
 Ohlíd se po sobě: na studeném ložním prádle nezvěstný  
 les vlasů. Ale nikde nablízku už jediný děj, co chtěl  
@@ -88,6 +126,10 @@ být událostí.
                        Tak přivřel okno. A zkoušel svou starou  
 simultánní hru se vším, co tvářilo se na věky. Co jako  
 báseň nebo něha nabízelo úplnost…_
+
+</section>
+
+<section>
 
             _Šeptem dva noční motýli  
             Šeptem lidová rčení  
@@ -98,7 +140,15 @@ báseň nebo něha nabízelo úplnost…_
             K šeru jde álej, držení těla jak sám  
             Bůh_
 
+</section>
+
+<section>
+
       _(Klít!    Klít štěstím, že zle rozumět i sobě)_
+
+</section>
+
+<section>
 
 _Nesvítil. Vše co ještě měl, obracel ke zdi, aby neleželo  
 na srdci. Aby vydrželo do rána. Ano:  
@@ -106,15 +156,27 @@ na srdci. Aby vydrželo do rána. Ano:
 osada kousek od Kutné Hory.    A Naděj ten poplužní  
 dvůr daleko za Třeboní…_
 
+</section>
+
+<section>
+
             _Něco nití z výbaviček, něco  
             tlustým drátem  
             Šňoří se, hihňá se zahradní restaurant —  
             stěžně jsou nízkého vzrůstu_
 
+</section>
+
+<section>
+
             _Jachtklub má korále  
             Smyky blinkrů a tramvají a hvězd jak  
             letmé komiksy,  kreslené  
             útlou krví_
+
+</section>
+
+<section>
 
 _To už tu sotva byl. To už zas utíkal. Zbytím. I ústretům.  
 Lhotou Lhůtou. Zasněženou Anglií, ve které nikdy nebyl.  
@@ -122,8 +184,18 @@ A zpíval si,
                     vše  
 pozpátku. A tančil s dcerou,     kterou neměl._
 
+</section>
+
+<section>
+
             _A starou celnici nese kdo mlhou  
             jako motor z auta,  
             zabalený do deky!_
 
+</section>
+
+<section>
+
             _Stín chodce trumfl kostel!_
+
+</section>
