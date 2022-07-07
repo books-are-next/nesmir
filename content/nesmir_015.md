@@ -9,7 +9,7 @@ _Jak by ho řezali dva: půlkou obličeje až zářil, půlkou
 obličeje klel. Dokořán oknem vidět stůl. Seděl  
 mu v čele, starou hlavu vzpříma, v podpaží dvojmo  
 kola potu.  
-                  Hrdličky v platanu, titěrná orchestrace  
+            Hrdličky v platanu, titěrná orchestrace  
 parků. A náhle se muž zvedl, vyvlíkl, svěsil hodiny  
 ze zdi   a vztekle jimi třás, jak by z nich třásl duši…_
 
@@ -85,7 +85,7 @@ uhodila přes ústa…_
 _Zle oslněn sám sebou,   tím hrozným neklidem,   stál  
 proti oknu.     I západ skvěle skvěl se jako pes, co si  
 chce kousnout z ohně.  
-                                        Hodiny čistotně, zřetelně tikaly.  
+            Hodiny čistotně, zřetelně tikaly.  
 A jak je kladl na stůl, aby je vyčistil, aby ta závrať  
 nalezla svůj smysl, slyšel své myšlenky: schodiště  
 obraznosti vedlo do nebe, schody paměti domů…_
@@ -123,7 +123,7 @@ _Ohlíd se po dešti. A předem utíkal z mokrého náručí.
 Ohlíd se po sobě: na studeném ložním prádle nezvěstný  
 les vlasů. Ale nikde nablízku už jediný děj, co chtěl  
 být událostí.  
-                       Tak přivřel okno. A zkoušel svou starou  
+            Tak přivřel okno. A zkoušel svou starou  
 simultánní hru se vším, co tvářilo se na věky. Co jako  
 báseň nebo něha nabízelo úplnost…_
 
@@ -152,7 +152,7 @@ báseň nebo něha nabízelo úplnost…_
 
 _Nesvítil. Vše co ještě měl, obracel ke zdi, aby neleželo  
 na srdci. Aby vydrželo do rána. Ano:  
-                                                                  Nepřízeň je ta  
+            Nepřízeň je ta  
 osada kousek od Kutné Hory.    A Naděj ten poplužní  
 dvůr daleko za Třeboní…_
 
@@ -181,7 +181,7 @@ dvůr daleko za Třeboní…_
 _To už tu sotva byl. To už zas utíkal. Zbytím. I ústretům.  
 Lhotou Lhůtou. Zasněženou Anglií, ve které nikdy nebyl.  
 A zpíval si,  
-                    vše  
+            vše  
 pozpátku. A tančil s dcerou,     kterou neměl._
 
 </section>
